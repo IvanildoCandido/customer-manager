@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "name": "customer-manager",
+  "description": "Este repositório é responsável pelo backend das aplicações de gerenciamento de clientes. (Projeto Pessoal)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanildoCandido/customer-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanildoCandido/customer-manager/issues"
+  },
+  "homepage": "https://github.com/IvanildoCandido/customer-manager#readme"
+}
